@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdca5e1b313671448cce143eaf3c9c2, type: 3}
+  m_Name: Table
+  m_EditorClassIdentifier: 
+  ItemCompany: Dico
+  ItemName: Mesa
+  ItemImage: {fileID: 21300000, guid: 19f01daf2f67739448d7ef78c14ec2af, type: 3}
+  ItemDescription: Mesa ideal para aquellos momentos con los seres queridos.
+  Item3DModel: {fileID: 1304990184358237751, guid: 59212ace26f7c5140b5d5b9682813a86, type: 3}
+  ItemDimensions: 270 cm X 140 cm X 120 cm
+  ItemPrice: 3000 MXN

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdca5e1b313671448cce143eaf3c9c2, type: 3}
+  m_Name: Lamp
+  m_EditorClassIdentifier: 
+  ItemCompany: Tu Hogar
+  ItemName: Lampara Rustica
+  ItemImage: {fileID: 21300000, guid: e35ad59837678f44dbbc3be1280c1b1f, type: 3}
+  ItemDescription: Lampara ideal para dar luz a tus noches
+  Item3DModel: {fileID: 3657321390419573912, guid: 5f945ede66b02d3468ee2b95cd3883ea, type: 3}
+  ItemDimensions: 25 cm X 25 cm X 45 cm
+  ItemPrice: 1000 MXN

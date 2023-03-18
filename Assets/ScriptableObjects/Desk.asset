@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdca5e1b313671448cce143eaf3c9c2, type: 3}
+  m_Name: Desk
+  m_EditorClassIdentifier: 
+  ItemCompany: Tu Hogar
+  ItemName: Escritorio
+  ItemImage: {fileID: 21300000, guid: 33a00f2d45ed47e4a93660c4e8989973, type: 3}
+  ItemDescription: "Un escritorio que formar\xE1 parte de tu cuarto y tu personalidad."
+  Item3DModel: {fileID: 7960954119502429394, guid: 504eeb6bc1384c94c8bf9559423e6e44, type: 3}
+  ItemDimensions: 220 cm X 130 cm X 135 cm
+  ItemPrice: 4000 MXN
